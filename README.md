@@ -1,5 +1,7 @@
 # Control PowerPoint via ArtNet
 
+![Screenshot](Screenshot.png)
+
 1. Download from Releases Page
 2. Extract then Run (Portable, No Install Required)
 3. Start PowerPoint Slideshow
