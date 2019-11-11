@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\bin\Release\PowerPointArtNet.exe.config
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\bin\Release\PowerPointArtNet.exe
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\bin\Release\PowerPointArtNet.pdb
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\obj\Release\PowerPointArtNet.Form1.resources
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\obj\Release\PowerPointArtNet.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\obj\Release\PowerPointArtNet.csproj.GenerateResource.cache
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\obj\Release\PowerPointArtNet.csproj.Fody.CopyLocal.cache
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\obj\Release\PowerPointArtNet.exe
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\obj\Release\PowerPointArtNet.pdb
+C:\Users\andre\Documents\GitHub\PowerPointArtNet\PowerPointArtNet\PowerPointArtNet\obj\Release\PowerPointArtNet.csprojAssemblyReference.cache

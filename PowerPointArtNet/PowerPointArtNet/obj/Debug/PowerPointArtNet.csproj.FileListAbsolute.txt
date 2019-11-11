@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\obj\Debug\PowerPointArtNet.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\obj\Debug\PowerPointArtNet.Form1.resources
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\obj\Debug\PowerPointArtNet.Properties.Resources.resources
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\obj\Debug\PowerPointArtNet.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\obj\Debug\PowerPointArtNet.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\bin\Debug\lib\ArtDotNetLib.dll
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\bin\Debug\PowerPointArtNet.exe.config
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\bin\Debug\PowerPointArtNet.exe
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\bin\Debug\PowerPointArtNet.pdb
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\bin\Debug\ArtDotNetLib.dll
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\bin\Debug\ArtDotNetLib.pdb
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\obj\Debug\PowerPointArtNet.csproj.CopyComplete
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\obj\Debug\PowerPointArtNet.exe
+C:\Users\andre\OneDrive\2019\Work\Flair\Source\PowerPointArtNet\PowerPointArtNet\obj\Debug\PowerPointArtNet.pdb
