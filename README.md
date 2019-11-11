@@ -16,7 +16,7 @@ Pull Requests Encouraged
 
 ### Credits
 
-- ArtNet Library "ArtDotNetLib" from https://github.com/cansik/ArtNet3DotNet
+- ArtNet Library "ArtDotNetLib" from https://github.com/cansik/ArtNet3DotNet under MIT License
 - Costura.Fody from https://github.com/Fody/Costura under MIT License
 
-Code **apart from "ArtDotNetLib"** is available for use under the MIT License described in LICENSE.md
+Code is available for use under the MIT License described in LICENSE.md
